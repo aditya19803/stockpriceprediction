@@ -29,7 +29,7 @@ Performed the Augmented Dickey-Fuller test to check for non-stationarity, confir
 Visualized long-term (Monthly) vs short-term (Weekly) moving averages, showing overall price stability.
 Applied seasonal decomposition to capture trend, seasonality, and residuals in stock prices.
 
-##Standardization:
+## Standardization:
 Standardized all numerical columns to normalize data for further analysis or modeling.
 
 ## RSI and MACD:
