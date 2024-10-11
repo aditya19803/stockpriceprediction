@@ -1,7 +1,9 @@
 # Stock Price Prediction for Time-Series Data.
 
 Dataset/CSV file which is used is given as stock_price.csv file
+
 All the required packages for running the main.ipynb file are given in requirements.txt please ensure you have all the packages installed. If not you can use 
+
 pip install -r requirements.txt 
 
 Detailed presentation about the project is given in PPT file.
